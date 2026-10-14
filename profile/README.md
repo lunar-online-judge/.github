@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ant.design">Official Website</a> •
+  <a href="https://lunar-oj.top">Official Website</a> •
   <a href="https://github.com/lunar-online-judge">GitHub Organization</a>
 </p>
 
