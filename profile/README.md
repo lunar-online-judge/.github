@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="200" src="../assets/moon-star-transparent.svg" alt="Lunar Online Judge LOGO">
+    <img width="200" src="../assets/moon-star.svg" alt="Lunar Online Judge LOGO">
 </div>
 
 <h1 align="center">Lunar Online Judge</h1>
